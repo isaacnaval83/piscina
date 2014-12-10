@@ -6,7 +6,7 @@
 	<title>PISCINA</title>
 </head>
 <body>
-<!---------------prueba de rama git----------------------->
+<!---------------prueba de rama git------------------------>
 	<?php
 		require 'comunes/conectar.php';
 		function login(){
