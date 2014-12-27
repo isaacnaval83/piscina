@@ -7,6 +7,7 @@
 </head>
 <body>
 	<?php
+	//otra linea
 		require 'comunes/conectar.php';
 		function login(){
 			if (isset($_SESSION['id_usuario'])){
